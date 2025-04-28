@@ -1,0 +1,5 @@
+G533 Monitor Premium
+Versão: 1.0.0
+Data: 2025-04-28
+Autor: [Seu Nome ou Nickname]
+Descrição: Sistema de monitoramento e automação de headset G533 no Linux.
